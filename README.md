@@ -1,6 +1,6 @@
 # WLP4 Compiler
 
-This C++ programs compile WLP4 code into MIPS assembly language. WLP4 is a subset of the C programming language with some simplifications to ease the process of compilation.
+These C++ programs compile WLP4 code into MIPS assembly language. WLP4 is a subset of the C programming language with some simplifications to ease the process of compilation.
 
 ## Compilation Stages
 
